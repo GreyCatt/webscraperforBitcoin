@@ -1,2 +1,2 @@
 # webscraperforBitcoin
-# Webscraper for Bitcoin, found from Forbes's chart
+Webscraper for Bitcoin, found from Forbes's chart
